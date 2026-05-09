@@ -10,29 +10,6 @@ i'm a postdoc at [tu berlin](tu.berlin). i recently completed my phd in applied 
 - structured feedback control and state estimation
 
 
-### time discretization
-
-to illustrate the importance of these questions, below the energy of a nonlinear passive system is shown after a time-discrete solution was obtained with 
-
-- the implicit midpoint method (generally *not* structure-preserving for nonlinear systems), and 
-- a discrete gradient method suitable for systems dissipative w.r.t. a quadratic supply rate (see [this preprint](https://arxiv.org/abs/2602.15445)).
-
-<figure>
-<div align="center">
-    <a href="https://karsai.xyz#time-discretization">
-    <img src="assets/gif/energy-problem.gif" alt="energy behavior for different discretization schemes" width="600">
-    </a>
-    <br>
-    live demo at <a href="https://karsai.xyz#time-discretization" target="_blank">karsai.xyz</a>
-</div>
-</figure>
-
-
-for the control input $u=0$, the energy should not increase.
-nevertheless, we see that for larger choices of the time step size, an increase of the energy is possible for the implicit midpoint method.
-the discrete gradient method does not exhibit this behavior.
-
-
 ## projects
 if you'd like to take a look at my projects, i recommend checking out 
 
