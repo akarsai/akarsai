@@ -19,7 +19,7 @@ to illustrate the importance of these questions, below the energy of a nonlinear
 
 <figure>
     <a href="https://karsai.xyz#time-discretization">
-    <img src="assets/gif/energy-problem.gif" alt="energy behavior for different discretization schemes">
+    <img src="assets/gif/energy-problem.gif" alt="energy behavior for different discretization schemes" width="600">
     </a>
     <div align="center">
     live demo at <a href="https://karsai.xyz#time-discretization" target="_blank">karsai.xyz</a>
