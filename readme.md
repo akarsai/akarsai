@@ -18,12 +18,12 @@ to illustrate the importance of these questions, below the energy of a nonlinear
 - a discrete gradient method suitable for systems dissipative w.r.t. a quadratic supply rate (see [this preprint](https://arxiv.org/abs/2602.15445)).
 
 <figure>
+<div align="center">
     <a href="https://karsai.xyz#time-discretization">
     <img src="assets/gif/energy-problem.gif" alt="energy behavior for different discretization schemes" width="600">
     </a>
-    <div align="center">
     live demo at <a href="https://karsai.xyz#time-discretization" target="_blank">karsai.xyz</a>
-    </div>
+</div>
 </figure>
 
 
