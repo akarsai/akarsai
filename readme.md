@@ -1,14 +1,12 @@
 # hi! i'm attila
 
-i'm a postdoc at [tu berlin](tu.berlin). i recently completed my phd in applied mathematics under the supervision of [prof. tobias breiten](https://www.tu.berlin/fgmso/tobias-breiten).
+i am a postdoc at the institute of mathematics at [epfl](https://epfl.ch) in the group of [prof. benjamin peherstorfer](https://people.epfl.ch/benjamin.peherstorfer?lang=en). previously, i obtained my phd at [tu berlin](https://tu.berlin) under the supervision of [prof. tobias breiten](https://www.tu.berlin/fgmso/tobias-breiten).
 
 **my research interests include**
 
+- nonlinear model order reduction
 - nonlinear energy-based systems (port-hamiltonian, passive, dissipative)
-- structured space and time discretization and model reduction (petrov-galerkin, discrete gradient)
-- structured optimal control and turnpike properties
-- structured feedback control and state estimation
-
+- structured space and time discretization (petrov-galerkin, discrete gradient)
 
 ## projects
 if you'd like to take a look at my projects, i recommend checking out 
