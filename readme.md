@@ -9,7 +9,7 @@ i am a postdoc at the institute of mathematics at [epfl](https://epfl.ch) in the
 - structured space and time discretization (petrov-galerkin, discrete gradient)
 
 ## projects
-if you'd like to take a look at my projects, i recommend checking out 
+if you'd like to take a look at my research projects, i recommend checking out 
 
 - [**the repo of my phd thesis**](https://github.com/akarsai/phd)
 
@@ -20,7 +20,9 @@ which combines the code of all of these projects:
 - [a structure-preserving discrete gradient scheme for QSR-dissipative systems](https://github.com/akarsai/qsr-discrete-gradients)
 - [a passive feedback controller to stabilize nonlinear systems](https://github.com/akarsai/passive-feedback)
 
-to have some fun with your beamer presentations, see [this script](https://github.com/akarsai/beamertheme-rollercoaster) to cycle through beamer themes during the presentation
+### side projects
+- the toolbox i use for sandboxing my agents is publicly available as [agentic-workspace](https://github.com/akarsai/agentic-workspace)
+- to have some fun with your beamer presentations, see [this script](https://github.com/akarsai/beamertheme-rollercoaster) to cycle through beamer themes during the presentation
 
 
 ## contact
