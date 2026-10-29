@@ -22,7 +22,6 @@ which combines the code of all of these projects:
 
 ### side projects
 - i set up a platform to crowdsource agentic efforts for proving mathematical results, [proofcommons](https://proofcommons.org). if you want to contribute, please reach out!
-- the toolbox i use for sandboxing my agents is publicly available as [agentic-workspace](https://github.com/akarsai/agentic-workspace)
 - to have some fun with your beamer presentations, see [this script](https://github.com/akarsai/beamertheme-rollercoaster) to cycle through beamer themes during the presentation
 
 
